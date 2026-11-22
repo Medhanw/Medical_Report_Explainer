@@ -1,0 +1,27 @@
+================================================================================
+                        GLOBAL HEALTHCARE DIAGNOSTICS
+                   COMPREHENSIVE MULTI-ORGAN HEALTH PANEL
+================================================================================
+Patient Name: Emily Clark               Age: 39 Years        Sex: Female
+Referred By:  Dr. Marcus Aurelius, MD    Date: 2026-10-25     Sample ID: CMP-77890
+================================================================================
+
+TEST NAME                     MEASURED VALUE   UNIT          REFERENCE INTERVAL
+--------------------------------------------------------------------------------
+Fasting Blood Sugar           115              mg/dL         70 - 99
+HbA1c                         5.9              %             < 5.7
+Total Cholesterol             225              mg/dL         < 200
+Triglycerides                 165              mg/dL         < 150
+HDL Cholesterol               55               mg/dL         > 50
+LDL Cholesterol               137              mg/dL         < 100
+Serum Creatinine              0.75             mg/dL         0.5 - 1.1
+Blood Urea Nitrogen           16.0             mg/dL         7.0 - 20.0
+Estimated GFR                 95               mL/min        >= 60
+Total Bilirubin               0.9              mg/dL         0.2 - 1.2
+Serum ALT (SGPT)              28               U/L           < 35
+Serum AST (SGOT)              24               U/L           < 35
+Alkaline Phosphatase (ALP)    85               U/L           44 - 147
+Serum Uric Acid               5.2              mg/dL         2.5 - 6.5
+--------------------------------------------------------------------------------
+Specimen: Serum & Whole Blood EDTA. Method: Spectrophotometry & Flow Cytometry.
+================================================================================

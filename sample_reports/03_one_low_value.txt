@@ -1,0 +1,19 @@
+================================================================================
+                        MAXCARE SPECIALTY DIAGNOSTICS
+                           HEMATOLOGY INVESTIGATION
+================================================================================
+Patient Name: David Miller              Age: 28 Years        Sex: Male
+Referred By:  Dr. Alan Walker, MD        Date: 2026-10-20     Sample ID: HEM-55104
+================================================================================
+
+TEST NAME                  MEASURED VALUE    UNIT          REFERENCE INTERVAL
+--------------------------------------------------------------------------------
+Hemoglobin                 10.2              g/dL          13.5 - 17.5
+Total Leukocyte Count      7200              /cumm         4000 - 11000
+Platelet Count             220000            /cumm         150000 - 450000
+Red Blood Cell Count       4.6               mil/cumm      4.5 - 5.9
+Total Serum Protein        6.8               g/dL          6.0 - 8.3
+Serum Albumin              4.1               g/dL          3.5 - 5.0
+--------------------------------------------------------------------------------
+Impression: Mild hypochromic microcytic indices noted.
+================================================================================

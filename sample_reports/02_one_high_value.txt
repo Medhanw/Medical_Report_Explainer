@@ -1,0 +1,19 @@
+================================================================================
+                        APOLLO HEALTHCARE LABORATORIES
+                           ROUTINE METABOLIC PANEL
+================================================================================
+Patient Name: Jane Smith                Age: 45 Years        Sex: Female
+Referred By:  Dr. Sarah Jenkins, MD      Date: 2026-10-18     Sample ID: GLU-10294
+================================================================================
+
+TEST NAME                  MEASURED VALUE    UNIT          REFERENCE INTERVAL
+--------------------------------------------------------------------------------
+Fasting Blood Glucose      142               mg/dL         70 - 99
+Serum Creatinine           0.82              mg/dL         0.5 - 1.1
+Blood Urea Nitrogen        14.0              mg/dL         7.0 - 20.0
+Serum Sodium               139               mmol/L        136 - 145
+Serum Potassium            4.2               mmol/L        3.5 - 5.1
+Serum Chloride             102               mmol/L        96 - 106
+--------------------------------------------------------------------------------
+Fasting duration confirmed: 10 hours overnight fasting.
+================================================================================

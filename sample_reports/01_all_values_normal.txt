@@ -1,0 +1,20 @@
+================================================================================
+                        METROPOLIS CLINICAL DIAGNOSTICS
+                      COMPLETE BLOOD COUNT (CBC) REPORT
+================================================================================
+Patient Name: John Doe                  Age: 32 Years        Sex: Male
+Referred By:  Dr. Robert Davis, MD       Date: 2026-10-15     Sample ID: CBC-94821
+================================================================================
+
+TEST NAME                  MEASURED VALUE    UNIT          REFERENCE INTERVAL
+--------------------------------------------------------------------------------
+Hemoglobin                 15.1              g/dL          13.5 - 17.5
+Total Leukocyte Count      6800              /cumm         4000 - 11000
+Platelet Count             250000            /cumm         150000 - 450000
+Red Blood Cell Count       5.1               mil/cumm      4.5 - 5.9
+Hematocrit                 45.2              %             41.0 - 50.0
+Mean Corpuscular Volume    88.5              fL            80.0 - 98.0
+--------------------------------------------------------------------------------
+End of Complete Blood Count Report.
+All parameters processed on automated hematology analyzer Sysmex XN-1000.
+================================================================================

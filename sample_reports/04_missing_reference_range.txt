@@ -1,0 +1,19 @@
+================================================================================
+                        SUNRISE PATHOLOGY CENTER
+                        SPECIALIZED BLOOD INVESTIGATION
+================================================================================
+Patient Name: Robert Chen               Age: 52 Years        Sex: Male
+Referred By:  Dr. Elena Vance, MD        Date: 2026-10-22     Sample ID: SPC-33912
+================================================================================
+
+TEST NAME                  MEASURED VALUE    UNIT          REFERENCE INTERVAL
+--------------------------------------------------------------------------------
+Fasting Blood Sugar        88                mg/dL         70 - 99
+Serum Creatinine           1.05              mg/dL         0.7 - 1.3
+C-Reactive Protein (CRP)   3.4               mg/L          Not provided
+Serum Ferritin             180               ng/mL         30 - 400
+Special Antibody Marker    12.5              AU/mL         None
+Vitamin D Total (25-OH)    42.0              ng/mL         30.0 - 100.0
+--------------------------------------------------------------------------------
+Note: Reference ranges for specialized assays must be interpreted by clinician.
+================================================================================
